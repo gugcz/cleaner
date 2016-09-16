@@ -10,3 +10,5 @@ data class Guger(val email: String, val firstName: String, val lastName: String,
 data class Chapter(val name: String)
 
 data class Event(val dateFrom: DateTime)
+
+data class Result(val name: String, val email: String, val support: Int, val garant: Int, val total: Int, val groups: String)

@@ -10,10 +10,10 @@ Script for cleaning inactive organizers of GUG.cz
   - Group/Name
   - Event Occurence/Start
   - Garant of Event Occurence/Start
-- Click Export to JSON
-- Clone this repo
-- Replace input.json with your JSON
-- Run './gradlew run' in the project folder
+ - Click Export to JSON
+ - Clone this repo
+ - Replace input.json with your JSON
+ - Run `./gradlew run` in the project folder
  
 ## Why the name?
 It's based on my favorite TV show Black Books, specifically episode [Grapes of Wrath](https://www.youtube.com/watch?v=C4wBLUBa8YI).
